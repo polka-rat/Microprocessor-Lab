@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 2\compare\compare\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 2\compare\compare\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 2\compare\compare\Debug\compare.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>compare.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>compare.map</FILE>
+  <FILE>compare.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <NUM><FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 2\compare\compare\main.asm</FILE><LINE>25</LINE></NUM>
+  <abc><FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 2\compare\compare\main.asm</FILE><LINE>14</LINE></abc>
+  <bcd><FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 2\compare\compare\main.asm</FILE><LINE>19</LINE></bcd>
+  <cde><FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 2\compare\compare\main.asm</FILE><LINE>22</LINE></cde>
+ </LABELS>
+</ASSEMBLER_INFO>

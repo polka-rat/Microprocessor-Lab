@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 4\interrupt_bomik\interrupt_bomik\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 4\interrupt_bomik\interrupt_bomik\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 4\interrupt_bomik\interrupt_bomik\Debug\interrupt_bomik.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>interrupt_bomik.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>interrupt_bomik.map</FILE>
+  <FILE>interrupt_bomik.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 4\interrupt_bomik\interrupt_bomik\main.asm</FILE><LINE>18</LINE></reset>
+  <int1_ISR><FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 4\interrupt_bomik\interrupt_bomik\main.asm</FILE><LINE>42</LINE></int1_ISR>
+  <ind_loop><FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 4\interrupt_bomik\interrupt_bomik\main.asm</FILE><LINE>40</LINE></ind_loop>
+  <c1><FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 4\interrupt_bomik\interrupt_bomik\main.asm</FILE><LINE>48</LINE></c1>
+  <a1><FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 4\interrupt_bomik\interrupt_bomik\main.asm</FILE><LINE>52</LINE></a1>
+  <a2><FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 4\interrupt_bomik\interrupt_bomik\main.asm</FILE><LINE>53</LINE></a2>
+  <b1><FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 4\interrupt_bomik\interrupt_bomik\main.asm</FILE><LINE>62</LINE></b1>
+  <b2><FILE>C:\Users\shand\OneDrive\Desktop\Mupalam\Exp 4\interrupt_bomik\interrupt_bomik\main.asm</FILE><LINE>63</LINE></b2>
+ </LABELS>
+</ASSEMBLER_INFO>
